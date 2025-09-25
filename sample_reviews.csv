@@ -1,0 +1,7 @@
+resena,etiqueta_esperada
+El producto llegó tarde y en mal estado.,Esperado: Negativo
+"Excelente servicio, lo recomiendo.",Esperado: Positivo
+"Cumple lo que promete, aunque podría mejorar la batería.",Esperado: Neutro/Positivo
+Mala calidad y pésima atención al cliente.,Esperado: Negativo
+La pantalla es brillante y el envío fue rápido.,Esperado: Positivo
+"No está mal, pero esperaba más por el precio.",Esperado: Neutro
